@@ -2,7 +2,7 @@
 Student name: Kiran Prajapati
 Subject: Programming Fundamental
 Roll:
-Program: WAP to program to print sum of three digits number
+Program: WAP to convet temperature from degree celcius to fahreinheit
 Lab sheet no:
 Date: 2016 Nov 23th
 */
