@@ -17,6 +17,7 @@ int main(){
 	printf("Enter the breath:\n");
 	scanf("%d",&b);
 	area=l*b;
+	perimeter=2*(l+b);
 	printf("Area of Rectangle is :%f",area);
 	printf("Perimeter of Rectangle is :%f",perimeter);
 	return(0);
