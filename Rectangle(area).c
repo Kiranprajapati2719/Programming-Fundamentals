@@ -10,7 +10,7 @@
 #include<stdio.h>
 
 int main(){
-	int l,b;
+	int l,b,perimeter;
 	float area;
 	printf("Enter the length:\n");
 	scanf("%d",&l);
@@ -18,6 +18,7 @@ int main(){
 	scanf("%d",&b);
 	area=l*b;
 	printf("Area of Rectangle is :%f",area);
+	printf("Perimeter of Rectangle is :%f",perimeter);
 	return(0);
 	
 	
