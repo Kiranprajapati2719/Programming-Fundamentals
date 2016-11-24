@@ -2,8 +2,9 @@
 Student name: Kiran Prajapati
 Subject: Programming Fundamental
 Roll:
-Program: WAP to convet temperature from degree celcius to fahreinheit
+Program: WAP to convert temperature from degree celcius to fahreinheit
 Lab sheet no:
+04
 Date: 2016 Nov 23th
 */
 
