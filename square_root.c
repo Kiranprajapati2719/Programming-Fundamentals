@@ -3,7 +3,7 @@ Student name: Kiran Prajapati
 Subject: Programming Fundamental
 Roll:
 Program: WAP to program to enter any number and calculate its square root
-Lab sheet no:06
+Lab sheet no: 07
 Date: 2016 Nov 23th
 */
 
