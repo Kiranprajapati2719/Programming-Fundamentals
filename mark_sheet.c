@@ -3,7 +3,7 @@ Student name: Kiran Prajapati
 Subject: Programming Fundamental
 Roll:
 Program: WAP to program to use relational operators
-Lab sheet no:
+Lab sheet no:07
 Date: 2016 Nov 23th
 */
 #include<stdio.h>
