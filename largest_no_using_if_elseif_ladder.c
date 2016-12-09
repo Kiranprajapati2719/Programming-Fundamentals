@@ -1,7 +1,7 @@
 /*
 Student Name: Kiran Prajapati
 Subject:Programming Fundamental
-Program: WAP to 
+Program: WAP to find the largest number using if elseif ladder
 Roll No.: 15
 Lab sheet No.: 12
 Date:2016 Dec 09
