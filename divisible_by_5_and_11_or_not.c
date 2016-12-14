@@ -1,5 +1,5 @@
 /*
-Student nsme: Kiran Prajapati
+Student name: Kiran Prajapati
 Subject: Programming Fundamentals
 Roll: 15
 Program: WAP to see if a number is divisible by 5and 11 or not
