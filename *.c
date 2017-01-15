@@ -5,8 +5,8 @@ Roll No :
 Program : WAP to display the following output: 
 			
 			   * * *
-				 * *
-				   *	
+			     * *
+			       *	
 	
 Lab Sheet No : 17
 Date : 15 Jan 2017
