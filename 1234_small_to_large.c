@@ -9,7 +9,7 @@ Program : WAP to display the following output:
 			1 2
 			1 2 3
 			
-Lab Sheet No : 17
+Lab Sheet No : 18
 Date : 15 Jan 2017
 */
 
