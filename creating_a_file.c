@@ -26,8 +26,9 @@ int main ()
 	fp=fopen("Desktop//Files//test.txt","w"); //File opened
 	
 	fprintf(fp,"First value is: %d\n",num1); //Data on File
-	fprintf(fp,"First value is: %d\n",num1);
+	fprintf(fp,"Second value is: %d\n",num2);
 	fprintf(fp,"Addition is: %d\n",add);
+	printf("The result after addition is: %d",add);
 	printf("Data saved on test file");
 	
 	fclose(fp); //File closed
